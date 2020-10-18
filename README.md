@@ -1,2 +1,2 @@
 # Psychological-test
-심리 테스트 해보쉴?
+WinAPI를 이용한 단순 심리 테스트
